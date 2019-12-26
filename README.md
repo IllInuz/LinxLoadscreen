@@ -17,4 +17,4 @@ This can be done in the index.html file, just make sure to only change the text,
 ```
  
  
-![Example](https://github.com/IllInuz/Loadscreen/blob/master/example.jpg)
+![Example](https://github.com/IllInuz/LinxLoadscreen/blob/master/example.jpg)
