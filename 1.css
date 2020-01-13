@@ -43,7 +43,7 @@ body
 	top:1px;
 }
 .Shape{
-    clip-path: polygon(0 0, 75% 0, 55% 100%, 0% 100%);
+    clip-path: polygon(0 0, 35% 0, 55% 100%, 0% 100%);
     position: fixed;
     height: 100%;width: 100%;
 }
