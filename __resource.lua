@@ -6,6 +6,7 @@ files {
   'logo.png',
   'music/music.ogg',
   'app.js',
+  'particles.js',
   'background.jpg',
 }
 
