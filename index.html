@@ -48,10 +48,10 @@
 															 document.querySelector('.thingy').style.left = '0%';
 															 document.querySelector('.thingy').style.width = ((thisCount / count) * 100) + '%';
 													 },
-													 // onLogLine(data)
-													 // {
-														// 	 document.querySelector('.letni p').innerHTML = data.message + "..!";
-													 // }
+													 onLogLine(data)
+													 {
+														 	 document.querySelector('.letni p').innerHTML = data.message;
+													 },
 											 };
 											 window.addEventListener('message', function(e)
 											 {
